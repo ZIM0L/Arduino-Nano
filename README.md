@@ -11,5 +11,13 @@ valueShifting.ino - A program where you can select the brightness level of the l
 
 https://github.com/ZIM0L/Arduino-Nano/assets/76491717/dc6b9ad1-b989-4e19-b2e2-62cb9ace2717
 
+MorseCode.ino - A program which detects letter based on morse code.
+
+https://github.com/ZIM0L/Arduino-Nano/assets/76491717/c7aada42-c02b-4308-a83d-10a49ebaa682
+
+
+
+
+
 
 
